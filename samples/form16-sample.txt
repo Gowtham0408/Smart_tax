@@ -1,0 +1,5 @@
+Form 16 sample
+Gross Salary 1200000
+Section 80C 120000
+HRA 80000
+TDS 90000

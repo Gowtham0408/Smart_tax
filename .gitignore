@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+target/
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.log
